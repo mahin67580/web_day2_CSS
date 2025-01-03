@@ -1,0 +1,19 @@
+h1{
+    color: red;
+    background-color: purple;
+}
+
+ 
+ .mahin
+ {
+
+    background-image: url('Sumiya\ \(129\ of\ 385\).jpg');
+    
+    height: 1000px;
+   background-repeat: no-repeat;  
+    /* background-repeat: repeat-y; */
+    background-size: 800px;
+ background-position:  0 50%  ;
+ 
+
+ }
